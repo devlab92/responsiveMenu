@@ -1,5 +1,7 @@
 # web-template
 
+here is a simple responsive menu and an adaptative form (incomplete, sorry. Im going to finish it, I swear) using VUE.js
+
 ## Project setup
 ```
 npm install
